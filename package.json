@@ -1,5 +1,6 @@
 {
   "name": "ecommerce",
+  "homepage": "https://github.com/shashantsah/chozywears.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
