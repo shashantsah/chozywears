@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/shashantsah/chozywears.git/static/js/main.aaff8bf6.js",
-    "index.html": "/shashantsah/chozywears.git/index.html",
-    "main.aaff8bf6.js.map": "/shashantsah/chozywears.git/static/js/main.aaff8bf6.js.map"
+    "main.js": "/chozywears.git/static/js/main.5b4491ee.js",
+    "index.html": "/chozywears.git/index.html",
+    "main.5b4491ee.js.map": "/chozywears.git/static/js/main.5b4491ee.js.map"
   },
   "entrypoints": [
-    "static/js/main.aaff8bf6.js"
+    "static/js/main.5b4491ee.js"
   ]
 }
